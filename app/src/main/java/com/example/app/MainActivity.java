@@ -25,7 +25,7 @@ public class MainActivity extends Activity {
     private static final String TAG = MainActivity.class.getSimpleName();
     WebView webview;
 
-    String url = "https://www.baidu.com/";  //云端
+    String url = "https://www.sendsory.com/";  //云端
 
     @Override
     @SuppressLint({"SetJavaScriptEnabled", "MissingInflatedId"})
